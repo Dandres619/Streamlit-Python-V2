@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib as plt
 import pandas as pd
 
 st.title("📊 Análisis de Datos")
